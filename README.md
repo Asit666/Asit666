@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Asit  
+#  Hi, I'm Asit  
 
-💻 Aspiring Java Developer | 🚀 Building projects & sharpening my coding skills  
+ Aspiring Java Developer |  Building projects & sharpening my coding skills  
 
 ---
 
@@ -11,15 +11,15 @@
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 - **Languages:** Java, SQL, HTML/CSS  
 - **Core Skills:** OOP, File Handling, Exception Handling, Collections Framework  
-- **Tools:** Git, GitHub, IntelliJ IDEA / VS Code  
+- **Tools:** Git, GitHub, IntelliJ IDEA  
 - **Currently Exploring:** Spring Boot, JDBC, REST APIs  
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 Here are some of my highlighted works:
 
 - [Banking Application (Bankingapp)](https://github.com/Asit666/Bankingapp)  
