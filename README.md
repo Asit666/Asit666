@@ -1,43 +1,24 @@
-#  Hi, I'm Asit  
+# Asit — HTML/CSS Introduction
 
- Aspiring Java Developer |  Building projects & sharpening my coding skills  
+A standalone professional introduction page for **Asit666 / Asit Khrishyu Mohapatra**.
 
----
+## Files
 
-## About Me
-- Passionate about Java, OOP, and backend development  
-- Currently learning advanced Java (multithreading, collections, streams)  
-- Building real-world projects to strengthen my portfolio  
+- `index.html` — page structure and content
+- `style.css` — all visual styling and responsive behavior
 
----
+## Principles
 
-## Tech Stack
-- **Languages:** Java, SQL, HTML/CSS  
-- **Core Skills:** OOP, File Handling, Exception Handling, Collections Framework  
-- **Tools:** Git, GitHub, IntelliJ IDEA  
-- **Currently Exploring:** Spring Boot, JDBC, REST APIs  
+This page intentionally avoids invented claims.
 
----
+The public project section uses verified information from the public GitHub repository:
+- `Bankingapp` — https://github.com/Asit666/Bankingapp
 
-##  Featured Projects
-Here are some of my highlighted works:
+Private work is described only as:
+> Currently exploring lexer development and developer tooling.
 
-- [Banking Application (Bankingapp)](https://github.com/Asit666/Bankingapp)  
-   for now its Console-based banking system with account management, deposits/withdrawals, and file I/O persistence.  
+## Main links
 
-- [Project 2 Title](#)  
-  *(Replace with your next project — e.g., Student Management System, Calculator, etc.)*  
-
-- [Project 3 Title](#)  
-  *(Another repo you want to showcase)*  
-
----
-
-## Connect With Me
-- GitHub: [Asit666](https://github.com/Asit666)  
-- LinkedIn: *()*  
-- Email: *()*  
-
----
-
-*“Code, Learn, Repeat — every line of code is a step forward.”*
+- GitHub: https://github.com/Asit666
+- LinkedIn: https://www.linkedin.com/in/asit-mohapatra-77bb13369/
+- Email: asitmohapatra662006@gmail.com
