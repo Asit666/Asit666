@@ -26,23 +26,25 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 <br/>
 
-<table>
-  <tr><td><b>Focus</b></td><td>Backend Engineering &amp; Native Applications</td></tr>
-  <tr><td><b>Building since</b></td><td>2024</td></tr>
-  <tr><td><b>Long-term</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
-</table>
+<div align="center">
+
+| | |
+|:---|:---|
+| **Focus** | Backend Engineering &amp; Native Applications |
+| **Building since** | 2024 |
+| **Long-term** | Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing |
 
 <br/>
 
-**Availability**
-
-| Opportunity | Status |
+| Opportunity | |
 |:---|:---|
-| Full-time | ✅ Open |
-| Internship | ✅ Open |
-| Freelance / Contract | ✅ Open |
-| Remote | ✅ Preferred |
-| Relocation | ✅ Open, anywhere |
+| Full-time | Open |
+| Internship | Open |
+| Freelance / Contract | Open |
+| Remote | Preferred |
+| Relocation | Open, anywhere |
+
+</div>
 
 ---
 
@@ -74,20 +76,18 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
 
+<br/><br/>
+
+| Technology | Proficiency |
+|:---|:---|
+| Java | Advanced |
+| Kotlin | Advanced |
+| Spring Boot | Advanced |
+| PostgreSQL | Proficient |
+| Go | Proficient |
+| Rust | Intermediate |
+
 </div>
-
-<br/>
-
-**Proficiency**
-
-| Technology | Level | |
-|:---|:---|:---|
-| Java | `████████░░` | Advanced |
-| Kotlin | `████████░░` | Advanced |
-| Spring Boot | `████████░░` | Advanced |
-| PostgreSQL | `███████░░░` | Proficient |
-| Go | `██████░░░░` | Proficient |
-| Rust | `█████░░░░░` | Intermediate |
 
 ---
 
