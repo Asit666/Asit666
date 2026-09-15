@@ -1,22 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
+
 <div align="center">
 
-<br/><br/>
-
-<p align="center">
-  <sup>BACKEND &middot; NATIVE APPLICATIONS &middot; SYSTEMS</sup>
-</p>
-
-# I'm Asit,<br><em>backend developer.</em>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=540&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Building+since+2024;Open+to+opportunities+worldwide)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Asit666">GitHub</a> &nbsp;&middot;&nbsp; 
-  <a href="https://www.linkedin.com/in/asit-mohapatra-77bb13369/">LinkedIn</a> &nbsp;&middot;&nbsp; 
-  <a href="mailto:asitmohapatra662006@gmail.com">Email</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -136,4 +128,5 @@ The projects below are drawn from my public GitHub work. I prefer to let the rep
 </div>
 
 <br/>
-<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)
