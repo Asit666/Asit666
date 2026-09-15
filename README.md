@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Hi,%20I'm%20Asit&fontSize=42&fontColor=c9d1d9&fontAlignY=40&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=64&descSize=16&descColor=a8d8c4)
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 01 &nbsp; About
 
-My main focus is building backend systems and native applications, with a particular interest in understanding what happens underneath the abstractions.
+I'm **Asit Khrishyu Mohapatra**. My main focus is building backend systems and native applications, with a particular interest in understanding what happens underneath the abstractions.
 
 My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I am comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
 
