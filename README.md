@@ -78,8 +78,26 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 </div>
 
-<div align="center">
-<img src="https://quickchart.io/chart?width=380&height=220&backgroundColor=transparent&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Spring%22%2C%22Kotlin%22%2C%22Postgres%22%2C%22Go%22%2C%22Rust%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B25%2C22%2C18%2C15%2C12%2C8%5D%2C%22backgroundColor%22%3A%5B%22%233dba7e%22%2C%22%232f81f7%22%2C%22%23a371f7%22%2C%22%23f778ba%22%2C%22%23e3b341%22%2C%22%23f48225%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%230d1117%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22weight%22%3A%22bold%22%2C%22size%22%3A12%7D%2C%22formatter%22%3A%22(v%2Cc)%20%3D%3E%20c.chart.data.labels%5Bc.dataIndex%5D%20%2B%20%5C%22%20%5C%22%20%2B%20v%20%2B%20%5C%22%25%5C%22%22%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A0%7D%7D%7D" alt="Stack Focus Pie Chart" />
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="200" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=java,kotlin" height="28" /><br/>
+      <b>Java &amp; Kotlin</b><br/>
+      <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" width="200" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=spring,postgres" height="28" /><br/>
+      <b>Spring &amp; Postgres</b><br/>
+      <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td align="center" width="200" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=go,rust" height="28" /><br/>
+      <b>Go &amp; Rust</b><br/>
+      <img src="https://img.shields.io/badge/Proficient-2f81f7?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
