@@ -29,7 +29,6 @@ Alongside software engineering, I am exploring compilers, quantum computing and 
 <div align="center">
 
 | | |
-|:---|:---|
 | <sup>PRIMARY</sup> | **Backend + Native** |
 | <sup>CURRENT</sup> | **Lexers + DevTools** |
 
