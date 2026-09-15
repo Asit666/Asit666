@@ -1,28 +1,36 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=540&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Building+since+2024;Open+to+opportunities+worldwide)](https://git.io/typing-svg)
+<br/><br/>
+
+<p align="center">
+  <sup>BACKEND &middot; NATIVE APPLICATIONS &middot; SYSTEMS</sup>
+</p>
+
+# I'm Asit,<br><em>backend developer.</em>
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-3dba7e?style=for-the-badge&labelColor=0d1117)
+<p align="center">
+  <a href="https://github.com/Asit666">GitHub</a> &nbsp;&middot;&nbsp; 
+  <a href="https://www.linkedin.com/in/asit-mohapatra-77bb13369/">LinkedIn</a> &nbsp;&middot;&nbsp; 
+  <a href="mailto:asitmohapatra662006@gmail.com">Email</a>
+</p>
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
-
-</div>
+<br/><br/>
 
 ---
 
-## About
+<br/>
 
-My main focus is building backend systems and native applications, with a particular interest in understanding what happens **underneath the abstractions**.
+</div>
+
+## 01 &nbsp; About
+
+My main focus is building backend systems and native applications, with a particular interest in understanding what happens underneath the abstractions.
 
 My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I am comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
 
-Alongside software engineering, I am exploring **compilers**, **quantum computing** and **biocomputing**, working toward ways to bring biological and computational systems closer together.
+Alongside software engineering, I am exploring compilers, quantum computing and biocomputing. The long-term direction is simple: explore ways to bring biological and computational systems closer together.
 
 <br/>
 
@@ -30,150 +38,102 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 | | |
 |:---|:---|
-| **Focus** | Backend Engineering &amp; Native Applications |
-| **Building since** | 2024 |
-| **Long-term** | Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing |
-
-<br/>
-
-| Opportunity | |
-|:---|:---|
-| Full-time | Open |
-| Internship | Open |
-| Freelance / Contract | Open |
-| Remote | Preferred |
-| Relocation | Open, anywhere |
+| <sup>PRIMARY</sup> | **Backend + Native** |
+| <sup>LOCATION</sup> | **India** |
+| <sup>CURRENT</sup> | **Lexers + DevTools** |
 
 </div>
 
+<br/>
+
 ---
 
-## Technical Stack
+<br/>
+
+## 02 &nbsp; Technical Stack
 
 <br/>
 
 <div align="center">
 
-<sup>PRIMARY ENGINEERING</sup>
+<p><sup>PRIMARY ENGINEERING</sup></p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,hibernate" height="38" />
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="44" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="44" title="Hibernate" />
+<br/><br/><br/>
 
-<br/><br/>
+<p><sup>NATIVE & SYSTEMS</sup></p>
+<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="38" />
 
-<sup>NATIVE &amp; SYSTEMS</sup>
+<br/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="44" />
+<p><sup>WEB & ML</sup></p>
+<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="38" />
 
-<br/><br/>
+<br/><br/><br/>
 
-<sup>WEB &amp; ML</sup>
-
-<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="44" />
-
-<br/><br/>
-
-<sup>TOOLING</sup>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
-
-<br/><br/>
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="200" style="border: none;">
-      <b>Java &amp; Kotlin</b><br/>
-      <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
-    </td>
-    <td align="center" width="200" style="border: none;">
-      <b>Spring &amp; Postgres</b><br/>
-      <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
-    </td>
-    <td align="center" width="200" style="border: none;">
-      <b>Go &amp; Rust</b><br/>
-      <img src="https://img.shields.io/badge/Proficient-2f81f7?style=flat-square&labelColor=0d1117" />
-    </td>
-  </tr>
-</table>
+<p><sup>TOOLING</sup></p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="38" />
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Stats
+<br/>
+
+## 03 &nbsp; Public Work
+
+The projects below are drawn from my public GitHub work. I prefer to let the repositories speak for themselves rather than inflate them with claims that are not supported by the code.
+
+<br/>
+
+<sup>PUBLIC REPOSITORY &middot; JAVA</sup>
+### [KisanLink](https://github.com/Asit666/KisanLink)
+> Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.
 
 <br/>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+> More public repositories are available on [github.com/Asit666](https://github.com/Asit666).
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 04 &nbsp; Direction
+
+<br/>
+
+<sup>CURRENTLY EXPLORING</sup>
+### Lexers &amp; developer tooling.
+> Current private work is intentionally kept private. For now, the useful description is simply that I am exploring lexer development and developer tooling.
 
 <br/><br/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=Asit666&hide_border=true&background=0d1117&ring=3dba7e&fire=3dba7e&currStreakLabel=3dba7e&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&stroke=0d1117" />
+<sup>LONG-TERM QUESTION</sup>
+> ### How far can we reduce the boundary between biology and computer science?
 
-<br/><br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Asit666&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6)
-
-</div>
+<br/>
 
 ---
 
-## Projects
+<br/>
+
+## 05 &nbsp; Working Principle
 
 <br/>
 
 <div align="center">
 
-<table style="border-collapse: collapse; border: none; background: #0d1117;">
-  <tr style="border: none;">
-    <td valign="top" width="52" style="border: none; padding: 16px;">
-      <img src="https://skillicons.dev/icons?i=java" height="40" />
-    </td>
-    <td valign="top" style="border: none; padding: 16px;">
-      <b><a href="https://github.com/Asit666/KisanLink" style="color: #3dba7e; text-decoration: none; font-size: 16px;">KisanLink</a></b>
-      &nbsp;
-      <img src="https://img.shields.io/github/languages/top/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=" />
-      <br/>
-      <sub style="color: #c9d1d9; font-size: 13px;">Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-&rarr;&nbsp;[View all public repositories](https://github.com/Asit666?tab=repositories)
-
-</div>
-
----
-
-## Currently Exploring
-
-<br/>
-
-<div align="center">
-
-![Compilers](https://img.shields.io/badge/Compilers-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Quantum](https://img.shields.io/badge/Quantum%20Computing-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Biocomputing](https://img.shields.io/badge/Biocomputing-long%20term-174638?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
-> *How far can we reduce the boundary between biology and computer science?*
-
-</div>
-
----
-
-## Working Principle
-
-<br/>
-
-<div align="center">
-
-> I prefer to understand what I am building.
+> ## I prefer to understand<br><em>what I'm building.</em>
 
 </div>
 
 <br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)
+<br/>
