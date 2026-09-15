@@ -108,7 +108,7 @@ The projects below are drawn from my public GitHub work.
 
 <br/><br/>
 
-<sup>LONG-TERM QUESTION</sup>
+<sup>LONG TERM QUESTION</sup>
 > ### How far can we reduce the boundary between biology and computer science?
 
 <br/>
