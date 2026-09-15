@@ -1,4 +1,4 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
 
 <div align="center">
 
@@ -78,14 +78,17 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 <br/><br/>
 
-| Technology | Proficiency |
-|:---|:---|
-| Java | Advanced |
-| Kotlin | Advanced |
-| Spring Boot | Advanced |
-| PostgreSQL | Proficient |
-| Go | Proficient |
-| Rust | Intermediate |
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+pie showData
+    title Stack Focus
+    "Java" : 25
+    "Spring Boot" : 22
+    "Kotlin" : 18
+    "PostgreSQL" : 15
+    "Go" : 12
+    "Rust" : 8
+```
 
 </div>
 
