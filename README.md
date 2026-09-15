@@ -75,10 +75,9 @@ Alongside software engineering, I am exploring compilers, quantum computing and 
 
 <br/>
 
-## 03 &nbsp; Public Work
+## 03 &nbsp; Projects
 
-The projects below are drawn from my public GitHub work. I prefer to let the repositories speak for themselves rather than inflate them with claims that are not supported by the code.
-
+The projects below are drawn from my public GitHub work.
 <br/>
 
 <sup>PUBLIC REPOSITORY &middot; JAVA</sup>
