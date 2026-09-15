@@ -1,4 +1,4 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=220&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=15&descColor=a8d8c4)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=22&fontColor=c9d1d9&fontAlignY=44&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=62&descSize=15&descColor=a8d8c4)
 
 <div align="center">
 
@@ -29,9 +29,20 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 <table>
   <tr><td><b>Focus</b></td><td>Backend Engineering &amp; Native Applications</td></tr>
   <tr><td><b>Building since</b></td><td>2024</td></tr>
-  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation, anywhere</td></tr>
   <tr><td><b>Long-term</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
+
+<br/>
+
+**Availability**
+
+| Opportunity | Status |
+|:---|:---|
+| Full-time | ✅ Open |
+| Internship | ✅ Open |
+| Freelance / Contract | ✅ Open |
+| Remote | ✅ Preferred |
+| Relocation | ✅ Open, anywhere |
 
 ---
 
@@ -64,6 +75,19 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
 
 </div>
+
+<br/>
+
+**Proficiency**
+
+| Technology | Level | |
+|:---|:---|:---|
+| Java | `████████░░` | Advanced |
+| Kotlin | `████████░░` | Advanced |
+| Spring Boot | `████████░░` | Advanced |
+| PostgreSQL | `███████░░░` | Proficient |
+| Go | `██████░░░░` | Proficient |
+| Rust | `█████░░░░░` | Intermediate |
 
 ---
 
@@ -98,7 +122,6 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
       <b><a href="https://github.com/Asit666/KisanLink">KisanLink</a></b>
       &nbsp;
       <img src="https://img.shields.io/github/languages/top/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=" />
-      <img src="https://img.shields.io/github/last-commit/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=updated" />
       <br/>
       <sub>Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub>
     </td>
