@@ -2,7 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=540&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Open+to+work+%E2%80%94+anywhere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=540&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Building+since+2024;Open+to+opportunities+worldwide)](https://git.io/typing-svg)
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-3dba7e?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
@@ -24,13 +28,14 @@ My main focus is building backend systems and native applications, with a partic
 
 My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I'm comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
 
-Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing** — working toward ways to bring biological and computational systems closer together.
+Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing**, working toward ways to bring biological and computational systems closer together.
 
 <br/>
 
 <table>
   <tr><td><b>Focus</b></td><td>Backend Engineering &amp; Native Applications</td></tr>
-  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation &mdash; anywhere</td></tr>
+  <tr><td><b>Building since</b></td><td>2024</td></tr>
+  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation, anywhere</td></tr>
   <tr><td><b>Currently</b></td><td>Lexers &amp; Developer Tooling <sub>(private)</sub></td></tr>
   <tr><td><b>Long-term</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
@@ -112,7 +117,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
       <img src="https://img.shields.io/github/languages/top/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=" />
       <img src="https://img.shields.io/github/last-commit/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=updated" />
       <br/>
-      <sub>Farmer market linkage and agricultural price discovery platform &mdash; connects farmers directly to markets with real-time price tracking.</sub>
+      <sub>Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub>
     </td>
   </tr>
 </table>
@@ -133,7 +138,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-Working on **lexers and developer tooling** &mdash; kept private for now.
+Working on **lexers and developer tooling**, kept private for now.
 
 <br/>
 
@@ -155,7 +160,7 @@ Working on **lexers and developer tooling** &mdash; kept private for now.
 
 <div align="center">
 
-> I prefer to understand what I'm building.
+> I prefer to understand what I am building.
 
 </div>
 
