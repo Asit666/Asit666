@@ -1,8 +1,4 @@
-﻿<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,0f2f26,174638&height=220&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%E2%80%A2%20Native%20Applications%20%E2%80%A2%20Systems%20Programming&descAlignY=58&descSize=15&descColor=3dba7e)
-
-</div>
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=210&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=15&descColor=a8d8c4)
 
 <div align="center">
 
@@ -10,11 +6,9 @@
 
 <br/>
 
-![Focus](https://img.shields.io/badge/Backend%20Engineering-primary-3dba7e?style=flat-square&labelColor=0d1117)&nbsp;![Native](https://img.shields.io/badge/Native%20Apps-active-3dba7e?style=flat-square&labelColor=0d1117)&nbsp;![Systems](https://img.shields.io/badge/Systems%20Programming-active-3dba7e?style=flat-square&labelColor=0d1117)&nbsp;![Open](https://img.shields.io/badge/Open%20to%20Work-anywhere-174638?style=flat-square&labelColor=0d1117)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
 <br/>
-
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=3dba7e)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=3dba7e)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=3dba7e)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Asit666&color=3dba7e&style=flat-square&label=profile+views)
 
@@ -43,17 +37,21 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 ## Technical Stack
 
-<br/>
+**Primary Engineering**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="38" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="38" title="Hibernate" />
 
-| Primary Engineering | Native & Systems |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="36" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="36" title="Hibernate" /> | <img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="36" /> |
-| **Web & ML** | **Tooling** |
-| <img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="36" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="36" /> |
+**Native & Systems**
 
-</div>
+<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="38" />
+
+**Web & ML**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="38" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="38" />
 
 ---
 
@@ -61,7 +59,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" height="158" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="158" />
+<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" height="160" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="160" />
 
 </div>
 
@@ -91,11 +89,23 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Projects
 
 > I prefer to let repositories speak for themselves rather than inflate them with claims not supported by the code.
-
-<br/>
 
 <table>
   <tr>
@@ -137,10 +147,14 @@ Working on **lexers and developer tooling** &mdash; kept private for now.
 
 > I prefer to understand what I'm building.
 
-<br/>
+---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=174638,0f2f26,0d1117&height=130&section=footer)
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=130&section=footer)
