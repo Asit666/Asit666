@@ -6,92 +6,49 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-3dba7e?style=for-the-badge&labelColor=0d1117)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
+![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-3dba7e?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-## About
+## 👨‍💻 About Me
 
 My main focus is building backend systems and native applications, with a particular interest in understanding what happens **underneath the abstractions**.
 
-My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I am comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
-
-Alongside software engineering, I am exploring **compilers**, **quantum computing** and **biocomputing**, working toward ways to bring biological and computational systems closer together.
+- 🔭 **Primary Stack:** Java & Kotlin with Spring Boot, Hibernate and PostgreSQL.
+- 📱 **Native & Systems:** Android, desktop development, Go, Rust, C, C++ and C#.
+- 🌱 **Exploring:** Compilers, quantum computing and biocomputing.
+- 💼 **Opportunity Status:** Open to Full-time, Internships, and Freelance worldwide.
 
 <br/>
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
-| | |
-|:---|:---|
-| **Focus** | Backend Engineering &amp; Native Applications |
-| **Building since** | 2024 |
-| **Long-term** | Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing |
-
-<br/>
-
-| Opportunity | |
-|:---|:---|
-| Full-time | Open |
-| Internship | Open |
-| Freelance / Contract | Open |
-| Remote | Preferred |
-| Relocation | Open, anywhere |
-
-</div>
-
----
-
-## Technical Stack
-
-<br/>
-
-<div align="center">
-
-<sup>PRIMARY ENGINEERING</sup>
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="44" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="44" title="Hibernate" />
-
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,hibernate" height="44" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=go,rust,c,cpp,cs,androidstudio" height="44" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,html,css,pytorch,git,github,docker,linux" height="44" />
 <br/><br/>
 
-<sup>NATIVE &amp; SYSTEMS</sup>
-
-<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="44" />
-
-<br/><br/>
-
-<sup>WEB &amp; ML</sup>
-
-<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="44" />
-
-<br/><br/>
-
-<sup>TOOLING</sup>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
-
-</div>
-
-<table align="center" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="200" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=java,kotlin" height="28" /><br/>
       <b>Java &amp; Kotlin</b><br/>
       <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
     </td>
     <td align="center" width="200" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=spring,postgres" height="28" /><br/>
       <b>Spring &amp; Postgres</b><br/>
       <img src="https://img.shields.io/badge/Advanced-3dba7e?style=flat-square&labelColor=0d1117" />
     </td>
     <td align="center" width="200" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=go,rust" height="28" /><br/>
       <b>Go &amp; Rust</b><br/>
       <img src="https://img.shields.io/badge/Proficient-2f81f7?style=flat-square&labelColor=0d1117" />
     </td>
@@ -100,17 +57,17 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 </div>
 
-
-
----
-
-## GitHub Stats
-
 <br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Asit666&hide_border=true&background=0d1117&ring=3dba7e&fire=3dba7e&currStreakLabel=3dba7e&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&stroke=0d1117" />
 
 <br/><br/>
 
@@ -118,60 +75,42 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 </div>
 
----
-
-## Projects
-
 <br/>
+
+## 🚀 Projects
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="52">
+<table style="border-collapse: collapse; border: none; background: #0d1117;">
+  <tr style="border: none;">
+    <td valign="top" width="52" style="border: none; padding: 16px;">
       <img src="https://skillicons.dev/icons?i=java" height="40" />
     </td>
-    <td valign="top">
-      <b><a href="https://github.com/Asit666/KisanLink">KisanLink</a></b>
+    <td valign="top" style="border: none; padding: 16px;">
+      <b><a href="https://github.com/Asit666/KisanLink" style="color: #3dba7e; text-decoration: none; font-size: 16px;">KisanLink</a></b>
       &nbsp;
       <img src="https://img.shields.io/github/languages/top/Asit666/KisanLink?style=flat-square&color=3dba7e&labelColor=0d1117&label=" />
       <br/>
-      <sub>Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub>
+      <sub style="color: #c9d1d9; font-size: 13px;">Farmer market linkage and agricultural price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-&rarr;&nbsp;[View all public repositories](https://github.com/Asit666?tab=repositories)
+&rarr; [View all public repositories](https://github.com/Asit666?tab=repositories)
 
 </div>
 
----
-
-## Currently Exploring
-
 <br/>
+
+## 🧠 Working Principle
 
 <div align="center">
 
-![Compilers](https://img.shields.io/badge/Compilers-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Quantum](https://img.shields.io/badge/Quantum%20Computing-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Biocomputing](https://img.shields.io/badge/Biocomputing-long%20term-174638?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
+> *I prefer to understand what I am building.*
+> <br/>
 > *How far can we reduce the boundary between biology and computer science?*
-
-</div>
-
----
-
-## Working Principle
-
-<br/>
-
-<div align="center">
-
-> I prefer to understand what I am building.
 
 </div>
 
