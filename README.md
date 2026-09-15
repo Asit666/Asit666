@@ -59,7 +59,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" height="160" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="160" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -67,37 +67,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Asit666&hide_border=true&background=0D1117&ring=3dba7e&fire=3dba7e&currStreakLabel=3dba7e&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&stroke=0d1117" width="55%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit666&bg_color=0d1117&color=3dba7e&line=174638&point=3dba7e&area=true&area_color=174638&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Asit666&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Asit666&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6)
 
 </div>
 
@@ -146,14 +116,6 @@ Working on **lexers and developer tooling** &mdash; kept private for now.
 ## Working Principle
 
 > I prefer to understand what I'm building.
-
----
-
-<div align="center">
-
-[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 <br/>
 
