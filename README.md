@@ -1,10 +1,10 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=0f2f26&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20India&descAlignY=62&descSize=16&descColor=a8d8c4)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems&descAlignY=62&descSize=15&descColor=a8d8c4)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3000&pause=1000&color=3dba7e&center=true&vCenter=true&width=480&lines=Backend+Engineering;Native+Applications;Systems+Programming;Exploring+Compilers+%26+Quantum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3000&pause=1000&color=3dba7e&center=true&vCenter=true&width=520&lines=Backend+Engineering;Native+Applications;Systems+Programming;Exploring+Compilers+%26+Quantum;Open+to+Work+Anywhere)](https://git.io/typing-svg)
 
-&nbsp;
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Asit666&color=174638&style=flat&label=profile+views)
 
@@ -20,13 +20,13 @@ My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** 
 
 Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing**. The long-term direction: explore ways to bring biological and computational systems closer together.
 
-<br>
+<br/>
 
 <table>
   <tr><td><b>Focus</b></td><td>Backend + Native Applications</td></tr>
-  <tr><td><b>Location</b></td><td>🇮🇳 India</td></tr>
+  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation anywhere</td></tr>
   <tr><td><b>Currently</b></td><td>Lexers + Developer Tooling</td></tr>
-  <tr><td><b>Interests</b></td><td>Compilers &nbsp;·&nbsp; Quantum Computing &nbsp;·&nbsp; Biocomputing</td></tr>
+  <tr><td><b>Interests</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
 
 ---
@@ -37,11 +37,11 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="38" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="38" title="Hibernate" />
 
-**Native &amp; Systems**
+**Native & Systems**
 
 <img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="38" />
 
-**Web &amp; ML**
+**Web & ML**
 
 <img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="38" />
 
@@ -55,9 +55,25 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&rank_icon=github" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&rank_icon=github" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=6" height="165" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit666&theme=github-compact&hide_border=true&bg_color=0d1117&color=3dba7e&line=174638&point=3dba7e&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Asit666&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8)
 
 </div>
 
@@ -77,7 +93,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 ## Currently Exploring
 
-Working on **lexers and developer tooling** — kept private for now.
+Working on **lexers and developer tooling** — current work is kept private for now.
 
 Long-term interests:
 
@@ -107,6 +123,6 @@ Compilers  ·  Quantum Computing  ·  Biocomputing
 
 </div>
 
-<br>
+<br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0f2f26&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer)
