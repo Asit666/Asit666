@@ -76,21 +76,17 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
 
-<br/><br/>
+</div>
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
-pie showData
-    title Stack Focus
-    "Java" : 25
-    "Spring Boot" : 22
-    "Kotlin" : 18
-    "PostgreSQL" : 15
-    "Go" : 12
-    "Rust" : 8
+%%{init: {'theme': 'dark', 'themeVariables': {'xyChart': {'backgroundColor': '#0d1117', 'plotColorPalette': '#3dba7e', 'plotBorderColor': '#0d1117'}}}}%%
+xychart-beta
+    title "Stack Proficiency"
+    x-axis ["Java", "Kotlin", "Spring Boot", "PostgreSQL", "Go", "Rust"]
+    y-axis 0 --> 100
+    bar [90, 85, 88, 70, 68, 55]
 ```
 
-</div>
 
 ---
 
