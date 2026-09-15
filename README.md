@@ -31,7 +31,6 @@ Alongside software engineering, I am exploring compilers, quantum computing and 
 | | |
 |:---|:---|
 | <sup>PRIMARY</sup> | **Backend + Native** |
-| <sup>LOCATION</sup> | **India** |
 | <sup>CURRENT</sup> | **Lexers + DevTools** |
 
 </div>
