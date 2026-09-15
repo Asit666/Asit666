@@ -78,17 +78,10 @@ Alongside software engineering, I am exploring **compilers**, **quantum computin
 
 </div>
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'pie1': '#3dba7e', 'pie2': '#30a86d', 'pie3': '#24955c', 'pie4': '#18834b', 'pie5': '#0e6939', 'pie6': '#083a1e', 'pieSectionTextColor': '#ffffff', 'pieLegendTextColor': '#8b9094', 'pieStrokeColor': '#0d1117', 'pieOuterStrokeColor': '#0d1117', 'pieOuterStrokeWidth': '3px', 'fontFamily': 'monospace'}}}%%
-pie
-    title Stack Focus
-    "Java" : 25
-    "Spring Boot" : 22
-    "Kotlin" : 18
-    "PostgreSQL" : 15
-    "Go" : 12
-    "Rust" : 8
-```
+<div align="center">
+<img src="https://quickchart.io/chart?width=420&height=230&backgroundColor=%230d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Spring%20Boot%22%2C%22Kotlin%22%2C%22PostgreSQL%22%2C%22Go%22%2C%22Rust%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B25%2C22%2C18%2C15%2C12%2C8%5D%2C%22backgroundColor%22%3A%5B%22%233dba7e%22%2C%22%232ea86d%22%2C%22%23249558%22%2C%22%2318834b%22%2C%22%230e6939%22%2C%22%23083a1e%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22font%22%3A%7B%22size%22%3A13%7D%2C%22padding%22%3A14%2C%22boxWidth%22%3A14%7D%7D%7D%2C%22cutout%22%3A%2268%25%22%2C%22layout%22%3A%7B%22padding%22%3A4%7D%7D%7D" alt="Stack Focus Donut Chart" />
+</div>
+
 
 
 ---
