@@ -28,7 +28,6 @@ Alongside software engineering, I am exploring compilers, quantum computing and 
 
 <div align="center">
 
-| | |
 
 |                    |                       |
 | ------------------ | --------------------- |
