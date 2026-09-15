@@ -1,8 +1,8 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=210&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=15&descColor=a8d8c4)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=220&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=15&descColor=a8d8c4)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=520&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Open+to+work+%E2%80%94+anywhere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=540&lines=Building+backend+systems;Going+deep+into+the+stack;Native+apps+%26+systems+programming;Exploring+compilers%2C+quantum+%26+biocomputing;Open+to+work+%E2%80%94+anywhere)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,9 @@
 
 </div>
 
----
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
 
 ## About
 
@@ -33,29 +35,47 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
   <tr><td><b>Long-term</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
 
----
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
 
 ## Technical Stack
 
-**Primary Engineering**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="38" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="38" title="Hibernate" />
+<div align="center">
 
-**Native & Systems**
+<sup>PRIMARY ENGINEERING</sup>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="38" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="44" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="44" title="Hibernate" />
 
-**Web & ML**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="38" />
+<sup>NATIVE &amp; SYSTEMS</sup>
 
-**Tooling**
+<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="44" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="38" />
+<br/><br/>
 
----
+<sup>WEB &amp; ML</sup>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="44" />
+
+<br/><br/>
+
+<sup>TOOLING</sup>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="44" />
+
+</div>
+
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
 
 ## GitHub Stats
+
+<br/>
 
 <div align="center">
 
@@ -71,16 +91,20 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 </div>
 
----
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
 
 ## Projects
 
-> I prefer to let repositories speak for themselves rather than inflate them with claims not supported by the code.
+<br/>
+
+<div align="center">
 
 <table>
   <tr>
     <td valign="top" width="52">
-      <img src="https://skillicons.dev/icons?i=java" height="38" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" />
     </td>
     <td valign="top">
       <b><a href="https://github.com/Asit666/KisanLink">KisanLink</a></b>
@@ -97,26 +121,44 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 &rarr;&nbsp;[View all public repositories](https://github.com/Asit666?tab=repositories)
 
----
+</div>
+
+<br/>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
 
 ## Currently Exploring
+
+<br/>
+
+<div align="center">
 
 Working on **lexers and developer tooling** &mdash; kept private for now.
 
 <br/>
 
-![Compilers](https://img.shields.io/badge/Compilers-exploring-3dba7e?style=flat-square&labelColor=0d1117)&nbsp;![Quantum](https://img.shields.io/badge/Quantum%20Computing-exploring-3dba7e?style=flat-square&labelColor=0d1117)&nbsp;![Biocomputing](https://img.shields.io/badge/Biocomputing-long%20term-174638?style=flat-square&labelColor=0d1117)
+![Compilers](https://img.shields.io/badge/Compilers-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Quantum](https://img.shields.io/badge/Quantum%20Computing-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Biocomputing](https://img.shields.io/badge/Biocomputing-long%20term-174638?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
 > *How far can we reduce the boundary between biology and computer science?*
 
----
-
-## Working Principle
-
-> I prefer to understand what I'm building.
+</div>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=130&section=footer)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+
+## Working Principle
+
+<br/>
+
+<div align="center">
+
+> I prefer to understand what I'm building.
+
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=140&section=footer)
