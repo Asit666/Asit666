@@ -12,23 +12,17 @@
 
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Asit666&color=3dba7e&style=flat-square&label=profile+views)
-
 </div>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## About
 
 My main focus is building backend systems and native applications, with a particular interest in understanding what happens **underneath the abstractions**.
 
-My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I'm comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
+My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I am comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
 
-Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing**, working toward ways to bring biological and computational systems closer together.
+Alongside software engineering, I am exploring **compilers**, **quantum computing** and **biocomputing**, working toward ways to bring biological and computational systems closer together.
 
 <br/>
 
@@ -36,13 +30,10 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
   <tr><td><b>Focus</b></td><td>Backend Engineering &amp; Native Applications</td></tr>
   <tr><td><b>Building since</b></td><td>2024</td></tr>
   <tr><td><b>Open to</b></td><td>Remote work &amp; relocation, anywhere</td></tr>
-  <tr><td><b>Currently</b></td><td>Lexers &amp; Developer Tooling <sub>(private)</sub></td></tr>
   <tr><td><b>Long-term</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## Technical Stack
 
@@ -74,9 +65,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 </div>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## GitHub Stats
 
@@ -86,19 +75,13 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Asit666&theme=darkhub&no-frame=true&column=7&margin-w=6&margin-h=6)
 
 </div>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## Projects
 
@@ -128,19 +111,13 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 </div>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## Currently Exploring
 
 <br/>
 
 <div align="center">
-
-Working on **lexers and developer tooling**, kept private for now.
-
-<br/>
 
 ![Compilers](https://img.shields.io/badge/Compilers-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Quantum](https://img.shields.io/badge/Quantum%20Computing-exploring-3dba7e?style=for-the-badge&labelColor=0d1117)&nbsp;![Biocomputing](https://img.shields.io/badge/Biocomputing-long%20term-174638?style=for-the-badge&labelColor=0d1117)
 
@@ -150,9 +127,7 @@ Working on **lexers and developer tooling**, kept private for now.
 
 </div>
 
-<br/>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=3&section=header" width="80%" /></p>
+---
 
 ## Working Principle
 
