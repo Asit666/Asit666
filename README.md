@@ -1,12 +1,12 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems&descAlignY=62&descSize=15&descColor=a8d8c4)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=210&section=header&text=Asit%20Khrishyu%20Mohapatra&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Backend%20%C2%B7%20Native%20Applications%20%C2%B7%20Systems%20Programming&descAlignY=60&descSize=14&descColor=a8d8c4)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&duration=3000&pause=1000&color=3dba7e&center=true&vCenter=true&width=520&lines=Backend+Engineering;Native+Applications;Systems+Programming;Exploring+Compilers+%26+Quantum;Open+to+Work+Anywhere)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2800&pause=1200&color=3dba7e&center=true&vCenter=true&width=500&lines=Building+backend+systems;Exploring+native+applications;Going+deep+into+the+stack;Compilers+%2F+Quantum+%2F+Biocomputing;Open+to+work+anywhere)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asit666&color=174638&style=flat&label=profile+views)
+[![Email](https://img.shields.io/badge/Email-informational?style=flat-square&logo=gmail&logoColor=white&color=1a1a1a)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=1a1a1a)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=Asit666&color=174638&style=flat-square&label=views)
 
 </div>
 
@@ -18,15 +18,15 @@ My main focus is building backend systems and native applications, with a partic
 
 My primary stack is **Java** and **Kotlin** with **Spring Boot**, **Hibernate** and **PostgreSQL**. I also work across native Android and desktop development, and I'm comfortable moving between higher-level application work and lower-level programming with **Go**, **Rust**, **C**, **C++** and **C#**.
 
-Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing**. The long-term direction: explore ways to bring biological and computational systems closer together.
+Alongside software engineering, I'm exploring **compilers**, **quantum computing** and **biocomputing** — working toward ways to bring biological and computational systems closer together.
 
 <br/>
 
 <table>
-  <tr><td><b>Focus</b></td><td>Backend + Native Applications</td></tr>
-  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation anywhere</td></tr>
-  <tr><td><b>Currently</b></td><td>Lexers + Developer Tooling</td></tr>
-  <tr><td><b>Interests</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
+  <tr><td><b>Focus</b></td><td>Backend Engineering &amp; Native Applications</td></tr>
+  <tr><td><b>Open to</b></td><td>Remote work &amp; relocation — anywhere</td></tr>
+  <tr><td><b>Currently</b></td><td>Lexers &amp; Developer Tooling (private)</td></tr>
+  <tr><td><b>Exploring</b></td><td>Compilers &nbsp;&middot;&nbsp; Quantum Computing &nbsp;&middot;&nbsp; Biocomputing</td></tr>
 </table>
 
 ---
@@ -35,19 +35,19 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 **Primary Engineering**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="38" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="38" title="Hibernate" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres" height="36" />&nbsp;<img src="https://cdn.simpleicons.org/hibernate/59666C" height="36" title="Hibernate" />
 
 **Native & Systems**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="38" />
+<img src="https://skillicons.dev/icons?i=androidstudio,go,rust,c,cpp,cs" height="36" />
 
 **Web & ML**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="38" />
+<img src="https://skillicons.dev/icons?i=js,html,css,pytorch" height="36" />
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="38" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" height="36" />
 
 ---
 
@@ -55,9 +55,9 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Asit666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3dba7e&icon_color=3dba7e&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asit666&layout=compact&hide_border=true&bg_color=0d1117&title_color=3dba7e&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="160" />
 
 </div>
 
@@ -65,7 +65,15 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit666&theme=github-compact&hide_border=true&bg_color=0d1117&color=3dba7e&line=174638&point=3dba7e&area=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Asit666&hide_border=true&background=0D1117&ring=3dba7e&fire=3dba7e&currStreakLabel=3dba7e&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff&stroke=0d1117" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asit666&bg_color=0d1117&color=3dba7e&line=174638&point=3dba7e&area=true&area_color=174638&hide_border=true" width="100%" />
 
 </div>
 
@@ -79,13 +87,24 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 ---
 
-## Public Work
+## Projects
 
-> I prefer to let the repositories speak for themselves rather than inflate them with claims not supported by the code.
+> I prefer to let repositories speak for themselves rather than inflate them with claims not supported by the code.
 
-| Repository | Description | Language |
-|---|---|---|
-| [**Bankingapp**](https://github.com/Asit666/Bankingapp) | A public application from my earlier project work | `Java` |
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://skillicons.dev/icons?i=java" height="32" />
+    </td>
+    <td>
+      <b><a href="https://github.com/Asit666/KisanLink">KisanLink</a></b><br/>
+      <sub>Farmer market linkage and price discovery platform. Connects farmers directly to markets with real-time price tracking.</sub><br/><br/>
+      <code>Java</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 &rarr;&nbsp;[View all public repositories](https://github.com/Asit666?tab=repositories)
 
@@ -93,9 +112,7 @@ Alongside software engineering, I'm exploring **compilers**, **quantum computing
 
 ## Currently Exploring
 
-Working on **lexers and developer tooling** — current work is kept private for now.
-
-Long-term interests:
+Working on **lexers and developer tooling** — kept private for now.
 
 ```
 Compilers  ·  Quantum Computing  ·  Biocomputing
@@ -110,19 +127,5 @@ Compilers  ·  Quantum Computing  ·  Biocomputing
 > I prefer to understand what I'm building.
 
 ---
-
-## You can find me here
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-asitmohapatra662006%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=1a1a1a)](mailto:asitmohapatra662006@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Asit666-informational?style=for-the-badge&logo=github&logoColor=white&color=1a1a1a)](https://github.com/Asit666)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asit_Mohapatra-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
-
-</div>
-
-<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=120&section=footer)
