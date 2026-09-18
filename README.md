@@ -8,7 +8,9 @@
 
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asitmohapatra662006@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asit666)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asit-mohapatra-77bb13369/)
 
-<br/>
+<br/><br/>
+
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asit666/Asit666/output/github-contribution-grid-snake-dark.svg">
@@ -37,7 +39,7 @@ Alongside software engineering, I am exploring compilers, quantum computing and 
 <div align="center">
 
 
-|                    |                       |
+|                   |                       |
 | ------------------ | --------------------- |
 | <sup>PRIMARY</sup> | **Backend + Native**  |
 | <sup>CURRENT</sup> | **Lexers + DevTools** |
